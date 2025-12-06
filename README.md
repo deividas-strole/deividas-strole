@@ -16,12 +16,10 @@ I'm a full-stack developer passionate about building scalable web applications. 
 ## 🚀 Projects by Deividas Strole
 
 Check out my repositories to see what I'm building!
-https://github.com/Deividas-Strole/LaWander-AI-Travel-Assistant
 
 ## 📫 Connect with Deividas Strole
 
-strole.dei@gmail.com
-https://www.linkedin.com/in/deividas-strole-94248866/
+deiwis@yahoo.com
 ---
 
 **Deividas Strole** | Full-Stack Developer | Open to collaboration and exciting projects
