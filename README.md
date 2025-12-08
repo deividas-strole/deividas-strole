@@ -15,7 +15,7 @@ I'm a full-stack developer passionate about building scalable web applications. 
 
 ## 🚀 Projects by Deividas Strole
 
-Check out my repositories to see what I'm building!
+Check out my repositories to see what I'm building.
 
 ## 📫 Connect with Deividas Strole
 
