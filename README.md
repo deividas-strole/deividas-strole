@@ -20,7 +20,7 @@ Check out my repositories to see what I'm building.
 
 ## 📫 Connect
 
-- [Website](https://deividasstrole.com)
+- [Deividas Strole](https://deividasstrole.com)
 - [LinkedIn](https://linkedin.com/in/deividas-strole)
 - [YouTube](https://youtube.com/@deividas-strole)
 - [Dev.to](https://dev.to/deividas-strole)
