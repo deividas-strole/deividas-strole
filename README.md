@@ -20,7 +20,12 @@ Check out my repositories to see what I'm building.
 
 ## 📫 Connect
 
-deiwis@yahoo.com
+- [Website](https://deividasstrole.com)
+- [LinkedIn](https://linkedin.com/in/deividas-strole)
+- [YouTube](https://youtube.com/@deividas-strole)
+- [Dev.to](https://dev.to/deividas-strole)
+- [Medium](https://medium.com/@deividas-strole)
+- [X](https://x.com/deividasstrole)
 ---
 
 **Deividas Strole** | Full-Stack Developer | Open to collaboration and exciting projects
