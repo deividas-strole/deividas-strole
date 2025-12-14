@@ -9,11 +9,11 @@ I'm Deividas Strole, a full-stack developer passionate about building scalable w
 
 ## 💼 What I Do
 
-- 🎨 Crafts responsive user interfaces with **React** and **JavaScript**
-- ⚙️ Builds enterprise-grade backends with **Java**, **Spring Boot**, **Python**, and **C#**
-- 🗄️ Designs and optimizes **SQL** databases
-- ☁️ Deploys and manages applications on **AWS**
-
+- 🎨 I craft responsive user interfaces with **React** and **JavaScript**  
+- ⚙️ I build enterprise-grade backends with **Java**, **Spring Boot**, **Python**, and **C#**  
+- 🗄️ I design and optimize **SQL** databases  
+- ☁️ I deploy and manage applications on **AWS**
+  
 ## 🚀 Projects
 
 Check out my repositories to see what I'm building.
