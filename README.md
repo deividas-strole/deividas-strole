@@ -28,4 +28,4 @@ Check out my repositories to see what I'm building.
 - [X](https://x.com/deividasstrole)
 ---
 
-**Deividas Strole** | Full-Stack Developer | Open to collaboration and exciting projects
+**Deividas Strole** | Full-Stack Developer | Open to collaboration and exciting projects!
