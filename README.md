@@ -26,6 +26,7 @@ Check out my repositories to see what I'm building.
 - [Dev.to](https://dev.to/deividas-strole)
 - [Medium](https://medium.com/@deividas-strole)
 - [X](https://x.com/deividasstrole)
+- [Strole Consulting] (https://stroleconsulting.com/)  
 ---
 
 **Deividas Strole** | Full-Stack Developer | Open to collaboration and exciting projects!
